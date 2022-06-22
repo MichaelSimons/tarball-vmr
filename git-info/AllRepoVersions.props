@@ -49,7 +49,7 @@
     <xdtOutputPackageVersion>5.0.0-preview.21431.1</xdtOutputPackageVersion>
     <xlifftasksGitCommitHash>bc3233146e1fcd393ed471d5005333c83363e0fe</xlifftasksGitCommitHash>
     <xlifftasksOutputPackageVersion>1.0.0-beta.21431.1</xlifftasksOutputPackageVersion>
-    <installerGitCommitHash>2432b43ab4a00d49fe0a262ef8ca1671a735b5a6</installerGitCommitHash>
+    <installerGitCommitHash>aaede61636c955f3e26a34a3e9ef935cff8bffb1</installerGitCommitHash>
     <installerOutputPackageVersion>6.0.107</installerOutputPackageVersion>
   </PropertyGroup>
 </Project>
